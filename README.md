@@ -1,6 +1,7 @@
 # **📈 EquityBot: A Powerful News Research Tool for Equity Analysts**
 
-![Alt text](Images/EquityBot Tool.png)
+<img width="1432" alt="Screenshot 2024-06-19 at 3 07 26 PM" src="https://github.com/Lakshmiec/EquityBot-NewsResearch-Tool-LLM/assets/34806462/6e41c081-436d-4197-81ac-5cd4e5d1a397">
+
 
 ## Overview
 
