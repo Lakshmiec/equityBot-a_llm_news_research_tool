@@ -1,8 +1,10 @@
-# **EquityBot: A Powerful News Research Tool for Equity Analysts**
+**#  📈 EquityBot: A Powerful News Research Tool for Equity Analysts **
+
 
 ## Overview
 
 EquityBot is a powerful news research tool designed for equity research analysts. This tool leverages LangChain, Google Gemini Pro, and Streamlit to provide an intuitive interface for analyzing news articles and gaining insights for investment decisions. 
+
 
 ## Features
 
@@ -36,4 +38,46 @@ Powerful LLM Integration: Google Gemini Pro, a large language model, analyzes th
 - Embedding library (e.g., CohereEmbeddings)
 - Vector store (e.g., FAISS)
 
+### 2. Installation
+
+#### 2.1 Clone the repository:
+
+```bash
+git clone https://github.com/Lakshmiec/EquityBot-NewsResearch-Tool-LLM.git
+cd EquityBot-NewsResearch-Tool-LLM
+```
+#### 2.2 Navigate to th eproject repository
+
+```bash
+cd EquityBot-NewsResearch-Tool-LLM
+```
+
+#### 2.3 Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+#### 2.4 Setup Environment Variables:
+
+Create a file named `secrets.toml` in the `.streamlit` directory and and add your Google Gemini Pro and Cohere API keys with the following content:
+
+```toml
+GOOGLE_API_KEY = "your-google-api-key"
+COHERE_API_KEY=  "your-cohere-api-key"
+```
+#### 2.5 Run the Application:
+
+```bash
+streamlit run main.py
+```
+
+
+## Example Usage
+
+1. Access EquityBot in your web browser (usually at http://localhost:8501).
+2. In the side panel, paste the URLs of relevant news articles (up to 3).
+3. Click the "Analyse Articles" button to process the data.
+4. When processing is complete, enter your research question in the main area.
+5. Click the " Search" button to retrieve an answer based on the processed news articles.
 
