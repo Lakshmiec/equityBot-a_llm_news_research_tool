@@ -1,4 +1,4 @@
-**#  📈 EquityBot: A Powerful News Research Tool for Equity Analysts **
+# **📈 EquityBot: A Powerful News Research Tool for Equity Analysts**
 
 
 ## Overview
@@ -6,7 +6,7 @@
 EquityBot is a powerful news research tool designed for equity research analysts. This tool leverages LangChain, Google Gemini Pro, and Streamlit to provide an intuitive interface for analyzing news articles and gaining insights for investment decisions. 
 
 
-## Features
+## 🎯 Features
 
 Intuitive User Interface: Streamlit's web framework provides a visually appealing and interactive interface for inputting news article URLs and posing research questions.
 Efficient Data Processing: LangChain's UnstructuredURLLoader seamlessly fetches news content from provided URLs, while LangChain's RecursiveCharacterTextSplitter intelligently breaks down the text into manageable chunks.
@@ -15,7 +15,7 @@ FAISS Vector Search: FAISS facilitates efficient search within the processed tex
 Powerful LLM Integration: Google Gemini Pro, a large language model, analyzes the retrieved information and delivers comprehensive answers to your research queries.
 
 
-## Technology Stack
+## 🏗️ Technology Stack
 
 - **Programming Language**: Python
 - **Web Framework**: Streamlit
