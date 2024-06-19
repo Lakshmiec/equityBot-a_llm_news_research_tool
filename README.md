@@ -1,5 +1,6 @@
 # **📈 EquityBot: A Powerful News Research Tool for Equity Analysts**
 
+![Alt text](Images/EquityBot Tool.png)
 
 ## Overview
 
