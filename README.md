@@ -1,4 +1,4 @@
-**# EquityBot: A Powerful News Research Tool for Equity Analysts **
+# **EquityBot: A Powerful News Research Tool for Equity Analysts**
 
 ## Overview
 
