@@ -45,13 +45,13 @@ EquityBot is a powerful news research tool designed for equity research analysts
 #### 2.1 Clone the repository:
 
 ```bash
-git clone https://github.com/Lakshmiec/EquityBot-NewsResearch-Tool-LLM.git
-cd EquityBot-NewsResearch-Tool-LLM
+git clone https://github.com/Lakshmiec/equityBot-a_llm_news_research_tool.git
+
 ```
 #### 2.2 Navigate to th eproject repository
 
 ```bash
-cd EquityBot-NewsResearch-Tool-LLM
+cd equityBot-a_llm_news_research_tool
 ```
 
 #### 2.3 Install Dependencies
