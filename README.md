@@ -10,11 +10,11 @@ EquityBot is a powerful news research tool designed for equity research analysts
 
 ## 🎯 Features
 
-Intuitive User Interface: Streamlit's web framework provides a visually appealing and interactive interface for inputting news article URLs and posing research questions.
-Efficient Data Processing: LangChain's UnstructuredURLLoader seamlessly fetches news content from provided URLs, while LangChain's RecursiveCharacterTextSplitter intelligently breaks down the text into manageable chunks.
-Advanced Embeddings: Cohere's state-of-the-art embeddings capture the semantic meaning of text, enabling accurate retrieval and analysis.
-FAISS Vector Search: FAISS facilitates efficient search within the processed text data, allowing for rapid retrieval of relevant information.
-Powerful LLM Integration: Google Gemini Pro, a large language model, analyzes the retrieved information and delivers comprehensive answers to your research queries.
+- Intuitive User Interface: **Streamlit's** web framework provides a visually appealing and interactive interface for inputting news article URLs and posing research questions.
+- Efficient Data Processing: **LangChain's UnstructuredURLLoader** seamlessly fetches news content from provided URLs, while **LangChain's RecursiveCharacterTextSplitter** intelligently breaks down the text into manageable chunks.
+- Advanced Embeddings: **Cohere's** state-of-the-art embeddings capture the semantic meaning of text, enabling accurate retrieval and analysis.
+- FAISS Vector Search: FAISS facilitates efficient search within the processed text data, allowing for rapid retrieval of relevant information.
+- Powerful LLM Integration: **Google Gemini Pro**, a large language model, analyzes the retrieved information and delivers comprehensive answers to your research queries.
 
 
 ## 🏗️ Technology Stack
